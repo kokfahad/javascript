@@ -1,0 +1,5 @@
+console.log("I am testing")
+console.log([34,2,1,2])
+console.table({harry:'this',fahad:'that'})
+console.warn('Your code has error')
+// console.clear()
